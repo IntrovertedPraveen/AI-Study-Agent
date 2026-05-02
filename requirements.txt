@@ -1,0 +1,27 @@
+#langchain core
+langchain
+langchain-core
+
+#anthropic integration
+langchain-anthropic
+
+#google genai
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+transformers
+huggingface-hub
+
+#environment variable engagement
+python-dotenv
+
+#machine Learning utilities
+numpy
+scikit-learn
+
+#streamlit
+streamlit
+
+#pdf reader
+PyPDF2
