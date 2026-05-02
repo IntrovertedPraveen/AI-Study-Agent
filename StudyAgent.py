@@ -17,7 +17,7 @@ model = ChatGoogleGenerativeAI(
 )
 
 st.header("AI STUDY AGENT")
-st.write("Feel free to ask any doubts in Studies")
+st.caption("Feel free to ask any doubts in Studies")
 
 # History Fetch
 if "history" not in st.session_state or not isinstance(st.session_state.history, list):
